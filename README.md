@@ -35,14 +35,14 @@
 
 <br/>
 
-# 🟩 Contribution Graph:
+#  Contribution Graph:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/subham120/subham120/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
   <img src="https://raw.githubusercontent.com/subham120/subham120/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=subham120&theme=github_dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=subham120&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subham120&theme=github_dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
