@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <!-- Programmer GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="original-00f24643a2c18bc04251f7a2019d4743.gif">
 
 - 🌱 I’m currently learning **DevOps**
 
