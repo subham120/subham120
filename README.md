@@ -35,20 +35,20 @@
 
 <br/>
 
-#  Contribution Graph:
+# 📈 Contribution Graph:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/subham120/subham120/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
   <img src="https://raw.githubusercontent.com/subham120/subham120/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
 </div>
 
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=subham120&theme=github_dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=subham120&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=subham120&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=subham120&theme=github_dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=subham120&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=subham120&theme=onedark)
+![](https://github-trophies.vercel.app/?username=subham120&theme=onedark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
