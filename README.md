@@ -42,19 +42,20 @@
   <img src="https://raw.githubusercontent.com/subham120/subham120/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=subham120&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=subham120&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=subham120&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=subham120&theme=onedark)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=subham120&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=subham120&theme=dark)<br/>
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=subham120&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Repositories
+<a href="https://github.com/subham120/ESP32-C6-Dino-Run"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=subham120&repo=ESP32-C6-Dino-Run&theme=dark" alt="ESP32-C6-Dino-Run" /></a>
+<a href="https://github.com/subham120/LeetCode"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=subham120&repo=LeetCode&theme=dark" alt="LeetCode" /></a>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=subham120&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
 ![](https://komarev.com/ghpvc/?username=subham120&color=0e75b6&style=flat-square&label=Profile+Views)
